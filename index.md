@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Homepage
+
 ---
 
 ## 欢迎来到 Zaccai53 的博客
